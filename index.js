@@ -9,3 +9,11 @@ myArr.push(abc);
 console.log(myArr);
 
 console.log(utils.garbage());
+
+let h = {
+    help: 1
+}
+
+h.help = utils.test(h);
+
+console.log(h);
