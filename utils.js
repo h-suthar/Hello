@@ -1,3 +1,3 @@
 exports.garbage = function() {
-    return "Hello wlord";
+    return "i hate life";
 }
